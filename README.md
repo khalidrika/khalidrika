@@ -1,10 +1,15 @@
 
 <div align="center">
-
-<h1>Hi 👋, I'm Khalid Trichine</h1>
-
+      <a href="https://ryuzaki.cloud">
+    <img
+        align="center"
+        alt="welcome"
+        src="https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=HI+👋+I'm+Khalid+Trichine."
+    />
+  </a>
+<h1></h1>
+<img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 <h3>Full-Stack Developer | Backend & Systems Enthusiast</h3>
-
 <p>🇲🇦 Morocco • Java • Go • Rust • JavaScript</p>
 
 **Building things from scratch and understanding how they work.**
@@ -182,5 +187,4 @@ I'm always interested in new ideas, collaborations, and opportunities to learn a
 **"The best way to understand something is to build it."**
 
 ⭐ From [Khalid Trichine](https://github.com/khalidrika)
-
 </div>
