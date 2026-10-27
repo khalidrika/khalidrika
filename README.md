@@ -1,7 +1,16 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:16a34a&height=200&section=header&text=Khalid%20Trichine&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20%26%20Systems%20Enthusiast&descAlignY=60&descSize=17" />
+
+<h1 align="center">Hi 👋, I'm Khalid Trichine</h1>
+
+<h3 align="center">
+  Full-Stack Developer | Backend & Systems Enthusiast
+</h3>
+
+<p align="center">
+  🇲🇦 Morocco • Java • Go • Rust • JavaScript
+</p>
 
 ### Hey there! I'm Khalid 👋
 
