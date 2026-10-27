@@ -1,47 +1,167 @@
-<h1 align="center">Hi 👋, I'm Khalid Trichine</h1>
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-- 🔭 I’m currently working on **GOlang**
 
-- 🌱 I’m currently learning **GO**
+<div align="center">
 
-- 👯 I’m looking to collaborate on **js and rust**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:16a34a&height=200&section=header&text=Khalid%20Trichine&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20%26%20Systems%20Enthusiast&descAlignY=60&descSize=17" />
 
-- 👨‍💻 All of my projects are available at [https://github.com/khalidrika](https://github.com/khalidrika)
+### Hey there! I'm Khalid 👋
 
-- 💬 Ask me about **HTML and CSS and GOlang**
+**A developer from Morocco 🇲🇦 who loves building things from scratch.**
 
-- 📫 How to reach me **trichinekhalid687@gmail.com**
+Passionate about backend engineering, web technologies, and understanding how software works under the hood.
+
+[![GitHub](https://img.shields.io/badge/GitHub-khalidrika-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khalidrika)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalid-trichine-550a9b318/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trichinekhalid687@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=khalidrika&label=Profile%20Views&color=16a34a&style=flat-square)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```javascript
+const khalid = {
+    name: "Khalid Trichine",
+    location: "Morocco 🇲🇦",
+    role: "Full-Stack Developer",
+
+    languages: [
+        "Java",
+        "Go",
+        "Rust",
+        "JavaScript"
+    ],
+
+    interests: [
+        "Backend Development",
+        "Systems Programming",
+        "Web Development",
+        "Software Architecture"
+    ],
+
+    currentlyExploring: [
+        "HTTP Servers",
+        "Spring Boot",
+        "Angular",
+        "Rust"
+    ],
+
+    philosophy: "Build. Break. Learn. Repeat."
+};
+```
+
+- 🔭 Building web applications and exploring backend systems.
+- 🌱 Deepening my knowledge of **Java, Spring Boot, Go, and Rust**.
+- 🧠 Interested in **networking, system design, and performance**.
+- 🤝 Open to collaborating on interesting open-source projects.
+- ⚡ I enjoy understanding how things work, not just making them work.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,go,rust,js,ts,html,css&theme=dark" alt="Programming Languages" />
+
+### Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=spring,angular,react,vue,nodejs&theme=dark" alt="Frameworks and Libraries" />
+
+### Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postgres,redis,nginx&theme=dark" alt="Developer Tools" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Social Network
+
+Full-stack social networking application featuring frontend and backend architecture.
+
+**Tech:** Web Technologies, Vue, Docker
+
+[Explore Project →](https://github.com/khalidrika/social-network)
 
 </td>
-<td width="50%" align="center">
+<td width="50%">
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+### 📥 Wget Clone
 
-  
-  </td>
+A command-line downloader built with Go, supporting file downloads and website mirroring.
+
+**Tech:** Go, HTTP, CLI
+
+[Explore Project →](https://github.com/khalidrika/wget)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 🎨 ASCII Art
+
+A Go application that transforms text into ASCII art using different font templates.
+
+**Tech:** Go, File I/O, Testing
+
+[Explore Project →](https://github.com/khalidrika/ascii-art-fs)
+
+</td>
 </tr>
 </table>
-<h3 align="center">A passionate frontend and backend developer from Morrco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khalidrika&label=Profile%20views&color=0e75b6&style=flat" alt="khalidrika" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khalidrika" alt="khalidrika" /></a> </p>
+**[Explore All My Repositories →](https://github.com/khalidrika?tab=repositories)**
 
+</div>
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/khalid-trichine-550a9b318/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khalid-trichine-550a9b318/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/khalidtrichin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/khalidtrichin/" height="30" width="40" /></a>
-<a href="https://discord.gg/momoffh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="momoffh" height="30" width="40" /></a>
-</p>
+## 📊 GitHub Statistics
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/khalidrika"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="khalidrika" /></a></p><br><br>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=khalidrika&show_icons=true&theme=github_dark&hide_border=true&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9" alt="GitHub Stats" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalidrika&show_icons=true&locale=en&layout=compact" alt="khalidrika" /></p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidrika&layout=compact&theme=github_dark&hide_border=true&title_color=22c55e&text_color=c9d1d9" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always interested in new ideas, collaborations, and opportunities to learn and build something meaningful.
+
+<a href="https://www.linkedin.com/in/khalid-trichine-550a9b318/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/khalidtrichin/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:trichinekhalid687@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/>
+
+**"The best way to understand something is to build it."**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:16a34a&height=110&section=footer" />
+
+</div>
