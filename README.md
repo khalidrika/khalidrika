@@ -1,22 +1,15 @@
 
 <div align="center">
 
+<h1>Hi 👋, I'm Khalid Trichine</h1>
 
-<h1 align="center">Hi 👋, I'm Khalid Trichine</h1>
+<h3>Full-Stack Developer | Backend & Systems Enthusiast</h3>
 
-<h3 align="center">
-  Full-Stack Developer | Backend & Systems Enthusiast
-</h3>
+<p>🇲🇦 Morocco • Java • Go • Rust • JavaScript</p>
 
-<p align="center">
-  🇲🇦 Morocco • Java • Go • Rust • JavaScript
-</p>
+**Building things from scratch and understanding how they work.**
 
-### Hey there! I'm Khalid 👋
-
-**A developer from Morocco 🇲🇦 who loves building things from scratch.**
-
-Passionate about backend engineering, web technologies, and understanding how software works under the hood.
+Passionate about backend engineering, modern web technologies, and systems programming.
 
 [![GitHub](https://img.shields.io/badge/GitHub-khalidrika-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khalidrika)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalid-trichine-550a9b318/)
@@ -40,7 +33,8 @@ const khalid = {
         "Java",
         "Go",
         "Rust",
-        "JavaScript"
+        "JavaScript",
+        "TypeScript"
     ],
 
     interests: [
@@ -61,9 +55,10 @@ const khalid = {
 };
 ```
 
-- 🔭 Building web applications and exploring backend systems.
+- 🔭 Building full-stack web applications and backend systems.
 - 🌱 Deepening my knowledge of **Java, Spring Boot, Go, and Rust**.
 - 🧠 Interested in **networking, system design, and performance**.
+- 🔐 Exploring **authentication, authorization, and web security**.
 - 🤝 Open to collaborating on interesting open-source projects.
 - ⚡ I enjoy understanding how things work, not just making them work.
 
@@ -75,15 +70,15 @@ const khalid = {
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,go,rust,js,ts,html,css&theme=dark" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=java,go,rust,js,ts,html,css&theme=dark" alt="Languages" />
 
 ### Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=spring,angular,react,vue,nodejs&theme=dark" alt="Frameworks and Libraries" />
+<img src="https://skillicons.dev/icons?i=spring,angular,react,vue,nodejs&theme=dark" alt="Frameworks" />
 
 ### Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postgres,redis,nginx&theme=dark" alt="Developer Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postgres,redis,nginx&theme=dark" alt="Tools" />
 
 </div>
 
@@ -95,6 +90,21 @@ const khalid = {
 <tr>
 <td width="50%">
 
+### 📝 01Blog
+
+A full-stack blogging platform built with **Spring Boot** and **Angular**.
+
+Users can create posts, upload images and videos, and interact through comments.
+
+Includes JWT authentication, role-based access control, and an admin moderation dashboard.
+
+**Tech:** Java, Spring Boot, Angular, TypeScript, PostgreSQL, Spring Security, JWT
+
+**Repository:** Link coming soon
+
+</td>
+<td width="50%">
+
 ### 🌐 Social Network
 
 Full-stack social networking application featuring frontend and backend architecture.
@@ -104,6 +114,8 @@ Full-stack social networking application featuring frontend and backend architec
 [Explore Project →](https://github.com/khalidrika/social-network)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 📥 Wget Clone
@@ -115,9 +127,7 @@ A command-line downloader built with Go, supporting file downloads and website m
 [Explore Project →](https://github.com/khalidrika/wget)
 
 </td>
-</tr>
-<tr>
-<td colspan="2">
+<td width="50%">
 
 ### 🎨 ASCII Art
 
@@ -158,19 +168,19 @@ A Go application that transforms text into ASCII art using different font templa
 I'm always interested in new ideas, collaborations, and opportunities to learn and build something meaningful.
 
 <a href="https://www.linkedin.com/in/khalid-trichine-550a9b318/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://www.instagram.com/khalidtrichin/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 <a href="mailto:trichinekhalid687@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
-<br/>
+---
 
 **"The best way to understand something is to build it."**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:16a34a&height=110&section=footer" />
+⭐ From [Khalid Trichine](https://github.com/khalidrika)
 
 </div>
